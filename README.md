@@ -1,5 +1,5 @@
-# Encryption-Decryption-Tool
-
+<h1 align="center">Encryption-Decryption-Tool</h1>
+<br>
 ![image016](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/e4d7961c-3ff6-4e35-985a-0e7b03f791e8)
 
 
