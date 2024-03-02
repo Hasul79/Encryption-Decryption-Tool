@@ -9,7 +9,7 @@
 
 <br/>
 
-## Для запуска предоставленного Python-кода выполните следующие шаги:
+# Для запуска предоставленного Python-кода выполните следующие шаги:
 
 <ul>
  
@@ -19,15 +19,19 @@
 
 ![Screenshot 2024-03-02 215243](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/6916c188-f9d0-4b56-82d0-a331dac86dc8)
 
+<br/>
+
  <li>Создание файла с помощью touch и открытие в текстовом редакторе:</li>
  
 <br/>
 
 ![Screenshot 2024-03-02 021427](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/aa764be2-bfaa-4828-9e5e-8347f41a3d83)
 
+<br/>
 
 <li>Откройте свой любимый текстовый редактор, вставьте код</li>
 
+<br/>
 
 ```
 import os
