@@ -125,6 +125,8 @@ if __name__ == "__main__":
 
 <li>Запустите скрипт</li>
 
+<br/>
+
 
 ![Screenshot 2024-03-02 215304](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/d505752a-ed77-4f11-baed-88182b42bf6c)
 
@@ -138,6 +140,7 @@ if __name__ == "__main__":
 
 
 <h1>Данный скрипт на Python реализует пример шифрования и дешифрования с использованием алгоритмов AES и RSA.</h1>
+<br/>
 
 <ol>
 
