@@ -206,6 +206,6 @@ if __name__ == "__main__":
 </ol>
 
 
-#Author: Hasmik Minasyan 02.03.2024
+# Author: Hasmik Minasyan 02.03.2024
 
 
