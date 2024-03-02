@@ -118,6 +118,61 @@ if __name__ == "__main__":
 
 ![Screenshot 2024-03-02 215304](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/d505752a-ed77-4f11-baed-88182b42bf6c)
 
-
-
 </ul>
+
+# Объяснение:
+
+<h1>Данный скрипт на Python реализует пример шифрования и дешифрования с использованием алгоритмов AES и RSA.</h1>
+
+<ol>
+
+<li>Генерация ключа:</li>
+
+
+ ![Screenshot 2024-03-02 222837](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/68584dbb-931a-4c9e-8fd8-98e6f89abbf6)
+
+
+<p>Функция generate_key создает случайный ключ длиной 32 байта (256 бит) с использованием os.urandom().</p>
+
+<br/>
+
+<li>Шифрование и дешифрование AES:</li>
+
+![Screenshot 2024-03-02 223031](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/9aeb172a-1ce7-4d1c-8332-fe08719e7f52)
+
+
+<b>Функции encrypt_aes и decrypt_aes выполняют шифрование и дешифрование текста с использованием алгоритма AES в режиме CFB (Cipher Feedback). Результаты выводятся на экран.</b>
+
+<br/>
+
+<li>Сохранение и загрузка ключа в файл:</li>
+
+![Screenshot 2024-03-02 223236](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/d340fb8a-1697-4d50-8ed5-4813afafa27e)
+
+
+<p>Функции save_key_to_file и load_key_from_file сохраняют и загружают ключ в/из файла.</p>
+
+<br/>
+
+<li>Шифрование и дешифрование RSA:</li>
+
+![Screenshot 2024-03-02 223626](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/5789040d-c4fb-451a-acc2-5b9a78b69776)
+
+<p>Генерируется пара RSA-ключей (закрытый и открытый), затем выполняется шифрование и дешифрование текста с использованием RSA. </p>
+
+<br/>
+
+<li>Вывод результатов на экран:</li>
+
+
+
+![Screenshot 2024-03-02 223859](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/a97254ba-ca6b-4fc7-aed6-1af77ef7fac9)
+
+<p>Здесь выводятся результаты работы алгоритмов AES и RSA на экран. Оригинальное сообщение, шифротекст и дешифрованное сообщение.</p>
+
+</ol>
+
+
+#Author: Hasmik Minasyan 02.03.2024
+
+
