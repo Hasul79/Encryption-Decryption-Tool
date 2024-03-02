@@ -6,13 +6,14 @@
 
 
 <ul>
+ 
 <li> Чтобы выполнить этот код, вам необходимо установить библиотеку cryptography.</li>
 
-
+<br>
 ![Screenshot 2024-03-02 215243](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/6916c188-f9d0-4b56-82d0-a331dac86dc8)
 
  <li>Создайте скрипт на Python:</li>
-
+<br>
 ![Screenshot 2024-03-02 221331](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/e0849e34-6fd7-4163-8ea0-4cff4c24a15f)
 
 <li>Откройте свой любимый текстовый редактор,вставьте код</li>
