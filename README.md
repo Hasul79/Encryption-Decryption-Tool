@@ -17,9 +17,11 @@
  
 <br/>
 
-![Screenshot 2024-03-02 221331](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/e0849e34-6fd7-4163-8ea0-4cff4c24a15f)
+![Screenshot 2024-03-02 021427](https://github.com/Hasul79/Encryption-Decryption-Tool/assets/95657084/aa764be2-bfaa-4828-9e5e-8347f41a3d83)
+
 
 <li>Откройте свой любимый текстовый редактор,вставьте код</li>
+
 
 ```
 import os
@@ -109,6 +111,8 @@ if __name__ == "__main__":
 
 
 ```
+<br/>
+
 <li>Запустите скрипт</li>
 
 
